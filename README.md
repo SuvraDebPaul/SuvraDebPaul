@@ -60,9 +60,7 @@ I'm a passionate and dedicated Full stack **MERN** developer with a keen eye for
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suvradebpaul&show_icons=true&locale=en" alt="suvradebpaul" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvradebpaul&show_icons=true&locale=en&layout=compact" alt="suvradebpaul" /></p>
-
-<br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=suvradebpaul&show_icons=true&locale=en&layout=compact" alt="suvradebpaul" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suvradebpaul&" alt="suvradebpaul" /></p>
 
