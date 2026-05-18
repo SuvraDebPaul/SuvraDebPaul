@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SDP.jpg" alt="Suvra Deb Paul" width="100%" />
+  <img src="assets/SDP.jpg" alt="Suvra Deb Paul Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Suvra Deb Paul 👋</h1>
@@ -20,31 +20,27 @@ Currently focused on production-level full-stack development, backend architectu
   <a href="https://linkedin.com/in/suvra-deb-paul/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://github.com/SuvraDebPaul">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://x.com/SuvraDebPaul25">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://facebook.com/1suvra.deb.paul">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SuvraDebPaul&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Web Developer** with hands-on experience in building modern web applications using **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Firebase, JWT, and REST APIs**.
+I am a passionate **Full Stack Web Developer** with hands-on experience in building modern web applications using **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Firebase, JWT, REST APIs, and Tailwind CSS**.
 
 I enjoy converting real-world problems into practical software solutions with clean UI, secure backend systems, structured databases, and maintainable code architecture.
 
-I am currently advancing my skills through an **AI-Driven Software Engineering Bootcamp**, where I am learning industry-standard development practices including:
-
-- Advanced TypeScript
-- Backend architecture with Node.js, Express.js, and PostgreSQL
-- Prisma ORM and relational database design
-- Authentication, authorization, JWT, refresh token flow
-- Next.js App Router, server actions, caching, and route protection
-- Docker, NGINX, AWS, CI/CD, and deployment
-- AI API integration, LangChain, RAG, semantic search, and AI automation
+I am currently advancing my skills through an **AI-Driven Software Engineering Bootcamp**, where I am learning industry-standard development practices including advanced TypeScript, backend architecture, PostgreSQL, Prisma, authentication, Next.js App Router, Docker, NGINX, AWS, CI/CD, AI API integration, LangChain, RAG, semantic search, and AI automation.
 
 I am open to **remote junior developer roles, internships, freelance projects, and collaboration opportunities**.
 
@@ -56,8 +52,10 @@ I am open to **remote junior developer roles, internships, freelance projects, a
 - Improving backend architecture and API design
 - Learning advanced TypeScript and software engineering principles
 - Working with PostgreSQL, Prisma, and relational database modeling
+- Creating secure authentication systems with JWT and refresh tokens
+- Building Next.js applications with App Router, server actions, and caching
 - Exploring AI-powered web applications with LLMs, RAG, and automation
-- Practicing Docker, deployment, and cloud-ready development workflows
+- Practicing Docker, deployment, NGINX, AWS, and CI/CD workflows
 
 ---
 
@@ -103,6 +101,7 @@ I am open to **remote junior developer roles, internships, freelance projects, a
   <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
   <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
 </p>
 
@@ -174,42 +173,40 @@ I am open to **remote junior developer roles, internships, freelance projects, a
 
 ## 📂 Featured Projects
 
-| Project                                          | Description                                                                                                                                                                                                                                                    | Tech Stack                                                                    | Links                 |
-| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------- |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
 | **Public Infrastructure Issue Reporting System** | A role-based citizen issue reporting platform where citizens can report public problems and authorities can manage, assign, track, and resolve issues. Includes authentication, dashboard, search, filtering, pagination, and payment-based priority boosting. | React, Node.js, Express.js, MongoDB, Firebase Auth, JWT, Stripe, Tailwind CSS | [Live](#) / [Code](#) |
-| **StudyMate — Find Your Perfect Study Partner**  | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level.                                                                                            | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI          | [Live](#) / [Code](#) |
-| **Real Estate Booking & CRM Platform**           | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system.                                                                                                       | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS                | [Live](#) / [Code](#) |
-| **AI Document Assistant**                        | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation.                                                                                                                | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG                     | [Live](#) / [Code](#) |
+| **StudyMate — Find Your Perfect Study Partner** | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level. | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI | [Live](#) / [Code](#) |
+| **Real Estate Booking & CRM Platform** | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS | [Live](#) / [Code](#) |
+| **AI Document Assistant** | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation. | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG | [Live](#) / [Code](#) |
 
 ---
 
-## 📚 Learning Roadmap
-
-I am currently learning and practicing:
+## 📚 Currently Learning
 
 ```txt
-TypeScript
-Advanced TypeScript Types
-Object-Oriented Programming
-Node.js
-Express.js
-PostgreSQL
-Database Design
+Advanced TypeScript
+Object-Oriented Programming in TypeScript
+Node.js and Express.js Architecture
+PostgreSQL and Database Design
 Prisma ORM
-Authentication and Authorization
-JWT and Refresh Token Flow
+JWT Authentication and Refresh Token Flow
+Role-Based Authorization
+Global Error Handling
+Zod Validation
 Next.js App Router
 Server Actions
 Caching and Revalidation
+TanStack Query
+TanStack Table
 Docker and Docker Compose
 NGINX Reverse Proxy
 AWS EC2 and S3
 GitHub Actions CI/CD
-AI API Integration
+OpenAI API Integration
 LangChain
-RAG
-Semantic Search
-n8n Automation
+RAG and Semantic Search
+n8n AI Automation
 Testing with Vitest and Supertest
 ```
 
@@ -217,22 +214,8 @@ Testing with Vitest and Supertest
 
 <p align="center">
   <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuvraDebPaul&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true"
-    alt="Suvra Deb Paul's GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
     src="https://streak-stats.demolab.com?user=SuvraDebPaul&theme=default&hide_border=false"
     alt="Suvra Deb Paul's GitHub Streak"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuvraDebPaul&layout=compact&theme=default&hide_border=false&langs_count=8"
-    alt="Suvra Deb Paul's Most Used Languages"
   />
 </p>
 
