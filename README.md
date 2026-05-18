@@ -1,91 +1,305 @@
-<img src="assets/SDP.jpg">
+<p align="center">
+  <img src="assets/SDP.jpg" alt="Suvra Deb Paul" width="100%" />
+</p>
 
-### Full-Stack Developer | Remote-Ready | Active Learner
+<h1 align="center">Hi, I'm Suvra Deb Paul 👋</h1>
 
-# 👨‍💻 About Me
+<h3 align="center">
+Full Stack Developer | React | Next.js | Node.js | TypeScript | PostgreSQL | AI-Ready Developer
+</h3>
 
-### Hi there, I'm Suvra Deb Paul 👋
+<p align="center">
+I build responsive, secure, and scalable web applications using modern JavaScript technologies.
+Currently focused on production-level full-stack development, backend architecture, cloud deployment, and AI integration.
+</p>
 
-I'm a passionate and dedicated Full stack **MERN** developer with a keen eye for creating efficient, user-friendly, and dynamic web applications. I love tackling complex problems and turning ideas into reality through code. I am currently seeking opportunities to contribute to a talented team and build amazing products.
-
----
-
-## 🌐 Socials:
-
-## [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/1suvra.deb.paul) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/suvra-deb-paul/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/SuvraDebPaul25) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suvra.deb.paul@gmail.com)
-
-### 🛠️ Tech Stack & Workflow
-
-<div align="left">
-
-#### **Frontend**
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-<img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
-<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-
-#### **Backend**
-
-<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
-<img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-
-#### **Database & Cloud**
-
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-#### **Remote Workflow & Tools**
-
-<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=black" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-<img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</div>
+<p align="center">
+  <a href="mailto:suvra.deb.paul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/suvra-deb-paul/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/SuvraDebPaul25">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/1suvra.deb.paul">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 📂 Featured Projects
+## 👨‍💻 About Me
 
-| Project              | Description                                                                         | Tech Stack                   | Links                         |
-| :------------------- | :---------------------------------------------------------------------------------- | :--------------------------- | :---------------------------- |
-| **[Project Name 1]** | A full-stack E-Commerce dashboard with payment integration and real-time inventory. | React, Node, MongoDB, Stripe | [**Live**](#) / [**Code**](#) |
-| **[Project Name 2]** | Real-time Chat Application allowing users to create rooms and share images.         | React, Socket.io, Express    | [**Live**](#) / [**Code**](#) |
-| **[Project Name 3]** | Task Management Tool for remote teams with drag-and-drop functionality.             | Next.js, Firebase, Tailwind  | [**Live**](#) / [**Code**](#) |
+I am a passionate **Full Stack Web Developer** with hands-on experience in building modern web applications using **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Firebase, JWT, and REST APIs**.
+
+I enjoy converting real-world problems into practical software solutions with clean UI, secure backend systems, structured databases, and maintainable code architecture.
+
+I am currently advancing my skills through an **AI-Driven Software Engineering Bootcamp**, where I am learning industry-standard development practices including:
+
+- Advanced TypeScript
+- Backend architecture with Node.js, Express.js, and PostgreSQL
+- Prisma ORM and relational database design
+- Authentication, authorization, JWT, refresh token flow
+- Next.js App Router, server actions, caching, and route protection
+- Docker, NGINX, AWS, CI/CD, and deployment
+- AI API integration, LangChain, RAG, semantic search, and AI automation
+
+I am open to **remote junior developer roles, internships, freelance projects, and collaboration opportunities**.
 
 ---
 
-### 📊 GitHub Analytics
+## 🚀 Current Focus
 
-![](https://github-readme-stats.vercel.app/api?username=SuvraDebPaul&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SuvraDebPaul&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SuvraDebPaul&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- Building production-level full-stack applications
+- Improving backend architecture and API design
+- Learning advanced TypeScript and software engineering principles
+- Working with PostgreSQL, Prisma, and relational database modeling
+- Exploring AI-powered web applications with LLMs, RAG, and automation
+- Practicing Docker, deployment, and cloud-ready development workflows
 
-### 🏆 GitHub Trophies
+---
 
-![](https://github-profile-trophy.vercel.app/?username=SuvraDebPaul&theme=default&no-frame=false&no-bg=true&margin-w=4)
+## 🛠️ Tech Stack
 
-### ✍️ Random Dev Quote
+### Frontend Development
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
 
-### 🔝 Top Contributed Repo
+### UI & Styling
 
-![](https://github-contributor-stats.vercel.app/api?username=SuvraDebPaul&limit=5&theme=default&combine_all_yearly_contributions=true)
+<p>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Responsive_UI-2563EB?style=for-the-badge" />
+</p>
 
-### 📫 Let's Connect
+### Backend Development
 
-- **Portfolio Website:** [LinkdIn](https://www.linkedin.com/in/suvra-deb-paul/)
-- **LinkedIn:** [LinkdIn](https://www.linkedin.com/in/suvra-deb-paul/)
-- **Email:** [Email](suvra.deb.paul@gmail.com)
-- **Resume:** [Link to Google Drive PDF or Portfolio](https://drive.google.com/file/d/1ds146HIX37hPmcF-6A8k5FfMqWHBxYOt/view?usp=sharing)
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+  <img src="https://img.shields.io/badge/Refresh_Token-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Role_Based_Access-7C3AED?style=for-the-badge" />
+</p>
+
+### Database & ORM
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
+</p>
+
+### Authentication, Validation & Security
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bcrypt-4B5563?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+  <img src="https://img.shields.io/badge/CORS-111827?style=for-the-badge" />
+</p>
+
+### AI & Automation
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-A100FF?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### DevOps, Cloud & Deployment
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+</p>
+
+### Tools & Workflow
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Beekeeper_Studio-FAD83B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+</p>
+
+---
+
+## 📌 What I Can Build
+
+- Full-stack MERN applications
+- Next.js applications with App Router
+- REST APIs with Node.js, Express.js, and TypeScript
+- Authentication systems with JWT, refresh token, Firebase, and role-based access
+- Admin dashboards with analytics, charts, tables, search, filter, sort, and pagination
+- PostgreSQL database models with Prisma ORM
+- MongoDB applications with Mongoose
+- File upload systems using Cloudinary or local storage
+- Payment integration with Stripe
+- Dockerized full-stack applications
+- AI chatbots and AI API-powered features
+- RAG-based document question-answering systems
+- Remote-ready and maintainable web applications
+
+---
+
+## 📂 Featured Projects
+
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Public Infrastructure Issue Reporting System** | A role-based citizen issue reporting platform where citizens can report public problems and authorities can manage, assign, track, and resolve issues. Includes authentication, dashboard, search, filtering, pagination, and payment-based priority boosting. | React, Node.js, Express.js, MongoDB, Firebase Auth, JWT, Stripe, Tailwind CSS | [Live](#) / [Code](#) |
+| **StudyMate — Find Your Perfect Study Partner** | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level. | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI | [Live](#) / [Code](#) |
+| **Real Estate Booking & CRM Platform** | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS | [Live](#) / [Code](#) |
+| **AI Document Assistant** | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation. | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG | [Live](#) / [Code](#) |
+
+---
+
+## 📚 Learning Roadmap
+
+I am currently learning and practicing:
+
+```txt
+TypeScript
+Advanced TypeScript Types
+Object-Oriented Programming
+Node.js
+Express.js
+PostgreSQL
+Database Design
+Prisma ORM
+Authentication and Authorization
+JWT and Refresh Token Flow
+Next.js App Router
+Server Actions
+Caching and Revalidation
+Docker and Docker Compose
+NGINX Reverse Proxy
+AWS EC2 and S3
+GitHub Actions CI/CD
+AI API Integration
+LangChain
+RAG
+Semantic Search
+n8n Automation
+Testing with Vitest and Supertest
+```
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SuvraDebPaul&show_icons=true&theme=default&hide_border=false&count_private=true&include_all_commits=true"
+    alt="Suvra Deb Paul's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=SuvraDebPaul&theme=default&hide_border=false"
+    alt="Suvra Deb Paul's GitHub Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=SuvraDebPaul&layout=compact&theme=default&hide_border=false&langs_count=8"
+    alt="Suvra Deb Paul's Most Used Languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=SuvraDebPaul&theme=github-compact&hide_border=false&area=true"
+    alt="Suvra Deb Paul's GitHub Contribution Graph"
+  />
+</p>
+
+## 🏆 GitHub Trophies
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SuvraDebPaul&theme=default&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
+
+## ✍️ Dev Quote
+<p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" /> </p>
+
+## 🤝 Let's Connect
+
+<p>
+I am open to remote junior developer roles, internships, freelance projects, and collaboration opportunities.
+</p>
+
+<p>
+  <a href="mailto:suvra.deb.paul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-suvra.deb.paul%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/suvra-deb-paul/">
+    <img src="https://img.shields.io/badge/LinkedIn-Suvra%20Deb%20Paul-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://github.com/SuvraDebPaul">
+    <img src="https://img.shields.io/badge/GitHub-SuvraDebPaul-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://x.com/SuvraDebPaul25">
+    <img src="https://img.shields.io/badge/X-SuvraDebPaul25-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://facebook.com/1suvra.deb.paul">
+    <img src="https://img.shields.io/badge/Facebook-Suvra%20Deb%20Paul-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+</p>
+
+<p>
+  <a href="https://drive.google.com/file/d/1ds146HIX37hPmcF-6A8k5FfMqWHBxYOt/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View%20Resume-22C55E?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <strong>Thanks for visiting my profile!</strong>
+</p>
+
+<p align="center">
+  I am continuously learning, building, and improving as a developer.
+</p>
