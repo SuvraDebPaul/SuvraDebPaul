@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SDP.png" alt="Suvra Deb Paul Banner" width="100%" />
+  <img src="assets/SDP.png" alt="Suvra Deb Paul Banner" width="100%" style="border-radius: 16px;" />
 </p>
 
 <h1 align="center">Hi, I'm Suvra Deb Paul 👋</h1>
