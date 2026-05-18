@@ -174,12 +174,12 @@ I am open to **remote junior developer roles, internships, freelance projects, a
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
+| Project                                          | Description                                                                                                                                                                                                                                                    | Tech Stack                                                                    | Links                 |
+| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------- |
 | **Public Infrastructure Issue Reporting System** | A role-based citizen issue reporting platform where citizens can report public problems and authorities can manage, assign, track, and resolve issues. Includes authentication, dashboard, search, filtering, pagination, and payment-based priority boosting. | React, Node.js, Express.js, MongoDB, Firebase Auth, JWT, Stripe, Tailwind CSS | [Live](#) / [Code](#) |
-| **StudyMate — Find Your Perfect Study Partner** | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level. | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI | [Live](#) / [Code](#) |
-| **Real Estate Booking & CRM Platform** | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS | [Live](#) / [Code](#) |
-| **AI Document Assistant** | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation. | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG | [Live](#) / [Code](#) |
+| **StudyMate — Find Your Perfect Study Partner**  | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level.                                                                                            | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI          | [Live](#) / [Code](#) |
+| **Real Estate Booking & CRM Platform**           | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system.                                                                                                       | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS                | [Live](#) / [Code](#) |
+| **AI Document Assistant**                        | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation.                                                                                                                | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG                     | [Live](#) / [Code](#) |
 
 ---
 
@@ -212,6 +212,7 @@ Semantic Search
 n8n Automation
 Testing with Vitest and Supertest
 ```
+
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -237,19 +238,31 @@ Testing with Vitest and Supertest
 
 ---
 
-## 📈 Contribution Graph
+## 🐍 GitHub Contribution
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=SuvraDebPaul&theme=github-compact&hide_border=false&area=true"
-    alt="Suvra Deb Paul's GitHub Contribution Graph"
-  />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/SuvraDebPaul/SuvraDebPaul/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/SuvraDebPaul/SuvraDebPaul/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake"
+      src="https://raw.githubusercontent.com/SuvraDebPaul/SuvraDebPaul/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
 </p>
 
 ## 🏆 GitHub Trophies
+
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=SuvraDebPaul&theme=default&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" /> </p>
 
 ## ✍️ Dev Quote
+
 <p align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Dev Quote" /> </p>
 
 ## 🤝 Let's Connect
