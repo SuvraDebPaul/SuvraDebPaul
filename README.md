@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/SDP.jpg" alt="Suvra Deb Paul Banner" width="100%" />
+  <img src="assets/SDP.png" alt="Suvra Deb Paul Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Suvra Deb Paul 👋</h1>
@@ -173,12 +173,12 @@ I am open to **remote junior developer roles, internships, freelance projects, a
 
 ## 📂 Featured Projects
 
-| Project | Description | Tech Stack | Links |
-| :--- | :--- | :--- | :--- |
+| Project                                          | Description                                                                                                                                                                                                                                                    | Tech Stack                                                                    | Links                 |
+| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------- |
 | **Public Infrastructure Issue Reporting System** | A role-based citizen issue reporting platform where citizens can report public problems and authorities can manage, assign, track, and resolve issues. Includes authentication, dashboard, search, filtering, pagination, and payment-based priority boosting. | React, Node.js, Express.js, MongoDB, Firebase Auth, JWT, Stripe, Tailwind CSS | [Live](#) / [Code](#) |
-| **StudyMate — Find Your Perfect Study Partner** | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level. | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI | [Live](#) / [Code](#) |
-| **Real Estate Booking & CRM Platform** | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system. | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS | [Live](#) / [Code](#) |
-| **AI Document Assistant** | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation. | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG | [Live](#) / [Code](#) |
+| **StudyMate — Find Your Perfect Study Partner**  | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level.                                                                                            | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI          | [Live](#) / [Code](#) |
+| **Real Estate Booking & CRM Platform**           | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system.                                                                                                       | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS                | [Live](#) / [Code](#) |
+| **AI Document Assistant**                        | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation.                                                                                                                | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG                     | [Live](#) / [Code](#) |
 
 ---
 
