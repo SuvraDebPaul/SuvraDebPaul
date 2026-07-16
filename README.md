@@ -122,7 +122,7 @@ I'm currently deepening my skills in advanced TypeScript, backend architecture, 
 
 ### 📂 Featured Projects
 
-### 🔗 LinkPilot
+### 🔗 LinkPilot\*\*
 
 Campaign link management SaaS for freelancers and agencies — short links, QR codes, click analytics, and client-ready reports. Full-stack Next.js application with a no-login guest shortener, Stripe subscriptions, workspace roles, custom domains, and token-based client portals.
 
@@ -140,7 +140,7 @@ A decoupled rebuild of the same link-management concept — Next.js frontend pai
 `Next.js` `Express.js` `TypeScript` `MongoDB` `better-auth` `Stripe`
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://linkpilot-blue.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 <a href="https://github.com/SuvraDebPaul/Smart-Link-Management-System-Frontend"><img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://github.com/SuvraDebPaul/Smart-Link-Management-System-Backend"><img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
