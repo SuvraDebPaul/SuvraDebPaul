@@ -65,10 +65,12 @@ I'm currently deepening my skills in advanced TypeScript, backend architecture, 
 
 ## CSS Frameworks & Libraries
 
+<p>
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
 <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
 <img src="https://img.shields.io/badge/Animate_UI-FF3366?style=for-the-badge" />
+</p>
 
 ## JavaScript Frameworks & Libraries
 
@@ -80,11 +82,13 @@ I'm currently deepening my skills in advanced TypeScript, backend architecture, 
 
 ## Authentication & Security
 
+<p>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Bcrypt-4B5563?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+</p>
 
 ## Deployment Platform
 
