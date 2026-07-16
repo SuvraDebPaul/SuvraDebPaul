@@ -8,9 +8,8 @@
 Full Stack Developer | React | Next.js | Node.js | TypeScript | PostgreSQL | AI-Ready Developer
 </h3>
 
-<p align="center">
-I build responsive, secure, and scalable web applications using modern JavaScript technologies.
-Currently focused on production-level full-stack development, backend architecture, cloud deployment, and AI integration.
+<p align="justify">
+Full-stack developer building modern websites and SaaS products with React, Next.js, TypeScript, and PostgreSQL. I turn ideas into clean, scalable applications — from business websites to full-fledged SaaS platforms — with a focus on solid architecture, secure authentication, and interfaces that feel effortless to use. I care as much about the product working for the business as it does for the user. Always learning, always shipping.
 </p>
 
 <p align="center">
@@ -36,179 +35,125 @@ Currently focused on production-level full-stack development, backend architectu
 
 ## 👨‍💻 About Me
 
-I am a passionate **Full Stack Web Developer** with hands-on experience in building modern web applications using **React, Next.js, Node.js, Express.js, MongoDB, PostgreSQL, Prisma, Firebase, JWT, REST APIs, and Tailwind CSS**.
+I'm a **Full Stack Web Developer** building modern, production-ready web applications with **React, Next.js, TypeScript, Node.js, PostgreSQL, and Prisma**. I focus on clean UI, secure backend systems, and maintainable architecture — turning real-world problems into software that actually ships.
 
-I enjoy converting real-world problems into practical software solutions with clean UI, secure backend systems, structured databases, and maintainable code architecture.
+I work independently and communicate clearly in async environments — a habit built from managing real client and business work alongside development, not just coursework.
 
-I am currently advancing my skills through an **AI-Driven Software Engineering Bootcamp**, where I am learning industry-standard development practices including advanced TypeScript, backend architecture, PostgreSQL, Prisma, authentication, Next.js App Router, Docker, NGINX, AWS, CI/CD, AI API integration, LangChain, RAG, semantic search, and AI automation.
+I'm currently deepening my skills in advanced TypeScript, backend architecture, and the Next.js App Router through hands-on projects, while exploring Docker, cloud deployment, and AI-powered features as I build toward more complex, production-scale systems.
 
-I am open to **remote junior developer roles, internships, freelance projects, and collaboration opportunities**.
+<!-- 📍 Based in Bangladesh (GMT+6) — comfortable with async workflows and flexible overlap hours.
+
+🟢 **Open to:** remote junior/mid full-stack roles, internships, freelance projects, and long-term collaboration. -->
 
 ---
 
 ## 🚀 Current Focus
 
-- Building production-level full-stack applications
-- Improving backend architecture and API design
-- Learning advanced TypeScript and software engineering principles
-- Working with PostgreSQL, Prisma, and relational database modeling
-- Creating secure authentication systems with JWT and refresh tokens
-- Building Next.js applications with App Router, server actions, and caching
-- Exploring AI-powered web applications with LLMs, RAG, and automation
-- Practicing Docker, deployment, NGINX, AWS, and CI/CD workflows
+- Building and shipping production-level full-stack SaaS applications
+- Designing relational database schemas with PostgreSQL and Prisma
+- Building secure authentication systems (JWT, refresh tokens, role-based access)
+- Working with Next.js App Router — server actions, caching, and data revalidation
+- Exploring Docker and cloud deployment for production-ready workflows
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend Development
+### Programming Languages
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" />
-  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts&theme=dark" />
 
-### UI & Styling
+## CSS Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Shadcn_UI-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-  <img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
-  <img src="https://img.shields.io/badge/Responsive_UI-2563EB?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,materialui" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/DaisyUI-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white" />
+<img src="https://img.shields.io/badge/Animate_UI-FF3366?style=for-the-badge" />
 
-### Backend Development
+## JavaScript Frameworks & Libraries
 
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Refresh_Token-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Role_Based_Access-7C3AED?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,redux,nodejs,express&theme=dark" />
 
-### Database & ORM
+## Database & ORM
 
-<p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgvector-336791?style=for-the-badge" />
-</p>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma,supabase&theme=dark" />
 
-### Authentication, Validation & Security
+## Authentication & Security
 
-<p>
-  <img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Bcrypt-4B5563?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
-  <img src="https://img.shields.io/badge/CORS-111827?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Bcrypt-4B5563?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Firebase_Auth-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
 
-### AI & Automation
+## Deployment Platform
 
-<p>
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-0F766E?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Semantic_Search-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/n8n-A100FF?style=for-the-badge&logo=n8n&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase&theme=dark" />
 
-### DevOps, Cloud & Deployment
+## Design & Graphics
 
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=figma,ai,ps&theme=dark" />
 
-### Tools & Workflow
+## Tools & Workflow
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Beekeeper_Studio-FAD83B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,windows,ubuntu,notion&theme=dark" />
 
----
+<br></br>
 
 ## 📌 What I Can Build
 
-- Full-stack MERN applications
-- Next.js applications with App Router
+- Full-stack applications with the MERN stack and Next.js (App Router)
 - REST APIs with Node.js, Express.js, and TypeScript
-- Authentication systems with JWT, refresh token, Firebase, and role-based access
+- Authentication systems — JWT, refresh tokens, Firebase Auth, role-based access
 - Admin dashboards with analytics, charts, tables, search, filter, sort, and pagination
-- PostgreSQL database models with Prisma ORM
+- Relational database models with PostgreSQL and Prisma ORM
 - MongoDB applications with Mongoose
 - File upload systems using Cloudinary or local storage
 - Payment integration with Stripe
-- Dockerized full-stack applications
-- AI chatbots and AI API-powered features
-- RAG-based document question-answering systems
-- Remote-ready and maintainable web applications
+- AI-powered features using LLM APIs (chat interfaces, smart automation)
+- Business and marketing websites with clean, responsive UI
+- Remote-ready, maintainable, production-grade codebases
 
 ---
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
-| Project                                          | Description                                                                                                                                                                                                                                                    | Tech Stack                                                                    | Links                 |
-| :----------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :-------------------- |
-| **Public Infrastructure Issue Reporting System** | A role-based citizen issue reporting platform where citizens can report public problems and authorities can manage, assign, track, and resolve issues. Includes authentication, dashboard, search, filtering, pagination, and payment-based priority boosting. | React, Node.js, Express.js, MongoDB, Firebase Auth, JWT, Stripe, Tailwind CSS | [Live](#) / [Code](#) |
-| **StudyMate — Find Your Perfect Study Partner**  | A MERN stack student collaboration platform where users can find study partners, create partner profiles, send requests, and filter by subject or experience level.                                                                                            | React, Node.js, Express.js, MongoDB, Firebase, Tailwind CSS, DaisyUI          | [Live](#) / [Code](#) |
-| **Real Estate Booking & CRM Platform**           | A real estate consultation and lead management platform with property listing, booking workflow, agent dashboard, admin panel, and lead tracking system.                                                                                                       | Next.js, TypeScript, Node.js, PostgreSQL, Prisma, Tailwind CSS                | [Live](#) / [Code](#) |
-| **AI Document Assistant**                        | A document-based AI assistant that allows users to upload documents and ask questions using semantic search and retrieval-augmented generation.                                                                                                                | Next.js, OpenAI API, LangChain, PostgreSQL, pgvector, RAG                     | [Live](#) / [Code](#) |
+### 🔗 LinkPilot
+
+Campaign link management SaaS for freelancers and agencies — short links, QR codes, click analytics, and client-ready reports. Full-stack Next.js application with a no-login guest shortener, Stripe subscriptions, workspace roles, custom domains, and token-based client portals.
+
+`Next.js 16` `TypeScript` `Prisma` `PostgreSQL` `NextAuth` `Stripe`
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/SuvraDebPaul/linkpilot"><img src="https://img.shields.io/badge/Code-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+### ⚡ Smart Link Management System\*\*
+
+A decoupled rebuild of the same link-management concept — Next.js frontend paired with a standalone Express REST API. Features multi-provider OAuth via better-auth, API-key authentication, real-time analytics, Stripe billing, and scheduled background jobs.
+
+`Next.js` `Express.js` `TypeScript` `MongoDB` `better-auth` `Stripe`
+
+<p>
+<a href="#"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://github.com/SuvraDebPaul/Smart-Link-Management-System-Frontend"><img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/SuvraDebPaul/Smart-Link-Management-System-Backend"><img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+### 🏗️ Public Infrastructure Issue Reporting System\*\*
+
+Full-stack civic platform where citizens report infrastructure issues and municipal staff/admins track them through a complete lifecycle. Role-based dashboards for Citizens, Staff, and Admins, with upvoting, priority-boost payments, and a visual issue timeline.
+
+`React` `Node.js` `Express` `MongoDB` `Firebase Auth` `Stripe`
+
+<p>
+<a href="https://sdp-piirs.web.app"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=firebase&logoColor=white" /></a>
+<a href="https://github.com/SuvraDebPaul/Public-Infrastructure-Issue-Reporting-System---Frontend"><img src="https://img.shields.io/badge/Frontend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://github.com/SuvraDebPaul/Public-Infrastructure-Issue-Reporting-System---Backend"><img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 ---
-
-## 📚 Currently Learning
-
-```txt
-Advanced TypeScript
-Object-Oriented Programming in TypeScript
-Node.js and Express.js Architecture
-PostgreSQL and Database Design
-Prisma ORM
-JWT Authentication and Refresh Token Flow
-Role-Based Authorization
-Global Error Handling
-Zod Validation
-Next.js App Router
-Server Actions
-Caching and Revalidation
-TanStack Query
-TanStack Table
-Docker and Docker Compose
-NGINX Reverse Proxy
-AWS EC2 and S3
-GitHub Actions CI/CD
-OpenAI API Integration
-LangChain
-RAG and Semantic Search
-n8n AI Automation
-Testing with Vitest and Supertest
-```
 
 ## 📊 GitHub Analytics
 
@@ -216,7 +161,7 @@ Testing with Vitest and Supertest
   <img
     src="https://streak-stats.demolab.com?user=SuvraDebPaul&theme=default&hide_border=false"
     alt="Suvra Deb Paul's GitHub Streak"
-  />
+  />  
 </p>
 
 ---
@@ -295,7 +240,8 @@ I am open to remote junior developer roles, internships, freelance projects, and
 <p align="center">
   <strong>Thanks for visiting my profile!</strong>
 </p>
-
 <p align="center">
   I am continuously learning, building, and improving as a developer.
 </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2035,100:1D9E75&height=100&section=footer" width="100%"/>
